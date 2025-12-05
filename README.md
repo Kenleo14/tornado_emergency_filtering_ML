@@ -4,7 +4,7 @@ Team Members: Kenneth Fulton Dataset Crisis NLP https://crisisnlp.qcri.org/data/
 
 To train the model: 
 
-1. clone repo @https://github.com/Kenleo14/tornado_emergency_filtering_ML.git
+1. Clone repo @https://github.com/Kenleo14/tornado_emergency_filtering_ML.git
 
 2. Download dependencies using requirements.txt
 
