@@ -1,0 +1,44 @@
+
+--- INFORMATIVE ---
+tornado           732
+in                387
+the               356
+for               251
+to                247
+of                232
+a                 208
+and               183
+warning           183
+watch             143
+joplin            142
+on                126
+at                116
+is                113
+county            105
+now                89
+until              85
+from               76
+just               71
+missouri           71
+
+--- NON-INFORMATIVE ---
+tornado           710
+the               402
+in                322
+a                 240
+for               238
+to                235
+of                155
+and               141
+please            136
+is                120
+warning           112
+victims            97
+joplin             96
+i                  95
+you                87
+my                 84
+on                 82
+at                 70
+from               62
+pray               61
