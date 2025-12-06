@@ -135,23 +135,6 @@ Label mapping (in training):
 
 ---
 
-## Outputs and Metrics
-
-- Validation metrics: Accuracy, weighted F1 (computed via scikit-learn)
-- Detailed classification report on validation set
-- Saved model and tokenizer: `bert-tornado-classifier/`
-
-Example printed metrics:
-```
-{
-  "eval_accuracy": <float>,
-  "eval_f1": <float>,
-  ...
-}
-```
-
----
-
 ## Troubleshooting
 
 - Missing data error:
@@ -171,14 +154,10 @@ Example printed metrics:
 
 - Kenneth Fulton
 
----
-
 ## Acknowledgments
 
 - CrisisNLP team for the ISCRAM2013 dataset.
 - Hugging Face Transformers for model and training utilities.
-
----
 
 ## License
 
